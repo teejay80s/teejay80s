@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teejay80s 
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning Azure Devops
 - 💞️ I’m looking to collaborate on React solutions
 - 📫 How to reach me ...
 
