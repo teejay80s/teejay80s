@@ -14,15 +14,13 @@ DevOps
 
 **Interests**
 *When I'm not coding, you can find me pursuing my interests:*
-
-Traveling: Exploring new places and experiencing different cultures.
-Debugging: Solving complex problems and optimizing code.
-Swimming: Enjoying the water and staying active.
-Gaming: Playing Soccer.
-Music: Listening to various genres and discovering new artists.
+Travel,Swimming,Gaming,Music and Sport
 
 **Contact**
 Feel free to connect with me on LinkedIn or whatsapp:
+
 WhatsApp: +2347064296681
+
 LinkedIn: [Abidoye Tajudeen](https://www.linkedin.com/in/tajudeen-abidoye-b34b34225/)
-I'm always open to collaboration and new opportunities, so feel free to reach out. Let's create something amazing together!
+
+**I'm always open to collaboration and new opportunities, so feel free to reach out. Let's create something amazing together!**
